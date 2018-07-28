@@ -15,7 +15,7 @@
 	  <meta property="og:description" content="Servidor Multi Reinos, 7.3.5, 4.3.4, 3.3.5" />
 	  <meta property="og:url" content="http://re-estize.cf" />
 	  <meta property="og:site_name" content="Re-Estize" />
-	  <meta property="og:image" content="http://re-estize.cf/assets/images/news/24a2a8160c03a82bc85e3b71a6fc0a95a0166d23.jpg" />
+	  <meta property="og:image" content="http://legion.re-estize.cf/assets/images/news/de366cc3615c8230ae638561ba3059ca4c335356.jpg" />
 	  <meta property='fb:admins' content='https://www.facebook.com/carlos.castilla.79'/>
 	  <meta property="og:locale:alternate" content="es_co" />
 	
